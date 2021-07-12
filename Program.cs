@@ -8,7 +8,7 @@ namespace ConsoleApp4
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(add(3, 5));
-             Console.WriteLine("this is pus");
+             Console.WriteLine("this is pud");
              
 
 
